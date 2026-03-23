@@ -29,7 +29,7 @@ No requiere instalación ni dependencias. Solo abre el archivo en tu navegador:
 
 ```bash
 # Clona el repositorio
-git clone 
+git clone https://github.com/Stefania1997/WeatherPro
 
 # Entra a la carpeta
 cd weatherpro
@@ -72,10 +72,6 @@ Ambas APIs son **gratuitas y no requieren API key**.
 - **JavaScript (Vanilla)** — Fetch API, manipulación del DOM
 - **Google Fonts** — DM Sans + Space Mono
 
----
 
-## 📸 Vista previa
-
-> Tema oscuro con paneles de vidrio, orbs animados de fondo y grid de datos meteorológicos.
 
 
